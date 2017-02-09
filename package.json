@@ -1,0 +1,27 @@
+{
+  "name": "learn_webpack",
+  "version": "1.0.0",
+  "description": "to learn webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justincui/learn_webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justincui/learn_webpack/issues"
+  },
+  "homepage": "https://github.com/justincui/learn_webpack#readme",
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "less": "^2.7.2",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1"
+  }
+}
