@@ -1,3 +1,3 @@
-import pic from './10x10.png';
+import pic from './big.png';
 
 document.getElementById('demo').setAttribute('src', pic);

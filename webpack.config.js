@@ -4,6 +4,7 @@ module.exports = {
   },
   output: {
     path: './dist',
+    publicPath:'/dist/',
     filename: '[name].b.js',
   },
   module: {
