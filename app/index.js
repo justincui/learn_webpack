@@ -1,3 +1,3 @@
-import './index.css';
-import content from './component';
-document.body.innerHTML+=content;
+import pic from './10x10.png';
+
+document.getElementById('demo').setAttribute('src', pic);
