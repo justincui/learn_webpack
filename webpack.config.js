@@ -22,7 +22,6 @@ module.exports = {
         loader: 'url-loader',
         query: {
           limit: 8192,
-          //mimetype: 'image/png'
         },
       }
     ]
