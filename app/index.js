@@ -1,3 +1,3 @@
 import './index.css';
-
-document.body.innerHTML+="hello";
+import content from './component';
+document.body.innerHTML+=content;
